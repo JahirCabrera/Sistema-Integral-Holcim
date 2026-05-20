@@ -1,0 +1,160 @@
+[13-May-2026 05:11:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:16:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:16:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:16:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:16:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:16:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:17:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:19:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:20:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:22:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:24:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:24:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:24:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:27:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:30:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:31:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:31:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:31:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:84
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1686): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 84
+[13-May-2026 05:37:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:88
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1690): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 88
+[13-May-2026 05:38:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:88
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1690): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 88
+[13-May-2026 05:38:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:88
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1690): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 88
+[13-May-2026 05:38:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:88
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1690): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 88
+[13-May-2026 05:39:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:88
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1690): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 88
+[13-May-2026 05:39:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:88
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1690): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 88
+[13-May-2026 05:40:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:88
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1690): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 88
+[13-May-2026 05:40:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:88
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1690): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 88
+[13-May-2026 05:41:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:90
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1692): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 90
+[13-May-2026 05:41:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:90
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1692): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 90
+[13-May-2026 05:41:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:90
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1692): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 90
+[13-May-2026 05:42:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:90
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1692): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 90
+[13-May-2026 05:43:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:90
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1692): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 90
+[13-May-2026 05:44:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/paddysupetex/public_html/contactos/listar.php:90
+Stack trace:
+#0 /home/paddysupetex/public_html/contactos/listar.php(1692): claseTipo('contratista')
+#1 {main}
+  thrown in /home/paddysupetex/public_html/contactos/listar.php on line 90

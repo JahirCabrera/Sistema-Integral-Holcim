@@ -1,0 +1,138 @@
+[
+    {
+        "nombre": "Caleb Morales",
+        "empresa": "Holcim",
+        "tipo": "Contratista",
+        "telefono": "5684741592",
+        "correo": "Caleb.morales@holcim.com",
+        "direccion": "Avenida Industria Nacional No.2 Colonia Alce Blanco"
+    },
+    {
+        "nombre": "Ana Mejia",
+        "empresa": "Holcim",
+        "tipo": "Cliente",
+        "telefono": "5684741592",
+        "correo": "Anamejia@holcim.com",
+        "direccion": "Avenida Industria Nacional No.2 Colonia Alce Blanco"
+    },
+    {
+        "nombre": "Marco Antonio Martínez Pérez",
+        "empresa": "Contructora A",
+        "tipo": "Transportista",
+        "telefono": "5562337055",
+        "correo": "marco18-perez@hotmail.com",
+        "direccion": "Av Reforma"
+    },
+    {
+        "nombre": "Juan Toledo",
+        "empresa": "Constructora Holcim",
+        "tipo": "Transportista",
+        "telefono": "5512435875",
+        "correo": "juantoledo@holcim.com",
+        "direccion": "Av reforma #34"
+    },
+    {
+        "nombre": "Melissa",
+        "empresa": "Morales",
+        "tipo": "Proveedor",
+        "telefono": "554235978451",
+        "correo": "melisa23@holcim.com",
+        "direccion": "Calle Azaleas #76"
+    },
+    {
+        "nombre": "Davino",
+        "empresa": "Holcim",
+        "tipo": "Proveedor",
+        "telefono": "5541289460",
+        "correo": "holcim.mx@gmail.com",
+        "direccion": "Avenida Industria Nacional No.2 Colonia Alce Blanco"
+    },
+    {
+        "nombre": "Jose Perez",
+        "empresa": "Constructora ecoplanet",
+        "tipo": "Contratista",
+        "telefono": "554258794653",
+        "correo": "joseperez@holcim.com",
+        "direccion": "Av Bugambilias #4"
+    },
+    {
+        "nombre": "Luis Fernández",
+        "empresa": "Holcim",
+        "tipo": "Cliente",
+        "telefono": "5512345678",
+        "correo": "luis.fernandez@holcim.com",
+        "direccion": "Avenida Industria Nacional No.2 Colonia Alce Blanco"
+    },
+    {
+        "nombre": "Carolina Méndez",
+        "empresa": "Holcim",
+        "tipo": "Contratista",
+        "telefono": "5523456789",
+        "correo": "carolina.mendez@holcim.com",
+        "direccion": "Avenida Industria Nacional No.2 Colonia Alce Blanco"
+    },
+    {
+        "nombre": "Roberto Gómez",
+        "empresa": "Holcim",
+        "tipo": "Transportista",
+        "telefono": "5534567890",
+        "correo": "roberto.gomez@holcim.com",
+        "direccion": "Avenida Industria Nacional No.2 Colonia Alce Blanco"
+    },
+    {
+        "nombre": "Fernanda Ríos",
+        "empresa": "Holcim",
+        "tipo": "Proveedor",
+        "telefono": "5545678901",
+        "correo": "fernanda.rios@holcim.com",
+        "direccion": "Avenida Industria Nacional No.2 Colonia Alce Blanco"
+    },
+    {
+        "nombre": "Javier Torres",
+        "empresa": "Holcim",
+        "tipo": "Contratista",
+        "telefono": "5556789012",
+        "correo": "javier.torres@holcim.com",
+        "direccion": "Avenida Industria Nacional No.2 Colonia Alce Blanco"
+    },
+    {
+        "nombre": "Paulina Castro",
+        "empresa": "Holcim",
+        "tipo": "Cliente",
+        "telefono": "5567890123",
+        "correo": "paulina.castro@holcim.com",
+        "direccion": "Avenida Industria Nacional No.2 Colonia Alce Blanco"
+    },
+    {
+        "nombre": "Ricardo Soto",
+        "empresa": "Holcim",
+        "tipo": "Transportista",
+        "telefono": "5578901234",
+        "correo": "ricardo.soto@holcim.com",
+        "direccion": "Avenida Industria Nacional No.2 Colonia Alce Blanco"
+    },
+    {
+        "nombre": "Gabriela Luna",
+        "empresa": "Holcim",
+        "tipo": "Proveedor",
+        "telefono": "5589012345",
+        "correo": "gabriela.luna@holcim.com",
+        "direccion": "Avenida Industria Nacional No.2 Colonia Alce Blanco"
+    },
+    {
+        "nombre": "Daniel Vega",
+        "empresa": "Holcim",
+        "tipo": "Cliente",
+        "telefono": "5590123456",
+        "correo": "daniel.vega@holcim.com",
+        "direccion": "Avenida Industria Nacional No.2 Colonia Alce Blanco"
+    },
+    {
+        "nombre": "Silvia Paredes",
+        "empresa": "Holcim",
+        "tipo": "Contratista",
+        "telefono": "5601234567",
+        "correo": "silvia.paredes@holcim.com",
+        "direccion": "Avenida Industria Nacional No.2 Colonia Alce Blanco"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "placa": "234-LKN",
+        "marca": "Kenworth",
+        "modelo": "2025",
+        "capacidad": "540.51",
+        "estado": "Disponible",
+        "condicion": "Bueno",
+        "mantenimiento": "2026-06-24"
+    },
+    {
+        "placa": "524-LHG",
+        "marca": "Freightliner",
+        "modelo": "2018",
+        "capacidad": "10000.00",
+        "estado": "Disponible",
+        "condicion": "Regular",
+        "mantenimiento": "2026-06-25"
+    },
+    {
+        "placa": "55VFD51",
+        "marca": "Kenworth",
+        "modelo": "2024",
+        "capacidad": "1000.00",
+        "estado": "Disponible",
+        "condicion": "Regular",
+        "mantenimiento": "2026-05-31"
+    },
+    {
+        "placa": "ABC-123",
+        "marca": "Mercedes-Benz",
+        "modelo": "2024",
+        "capacidad": "15.00",
+        "estado": "Disponible",
+        "condicion": "Bueno",
+        "mantenimiento": "2026-10-07"
+    },
+    {
+        "placa": "ZWP-551",
+        "marca": "Volvo",
+        "modelo": "2021",
+        "capacidad": "50.00",
+        "estado": "Disponible",
+        "condicion": "Regular",
+        "mantenimiento": "2026-05-30"
+    }
+]

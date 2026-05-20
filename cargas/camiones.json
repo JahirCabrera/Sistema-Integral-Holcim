@@ -1,0 +1,12 @@
+[
+    {
+        "placa": "ABC-123",
+        "marca": "Volvo",
+        "modelo": "2022"
+    },
+    {
+        "placa": "XYZ-789",
+        "marca": "Mercedes",
+        "modelo": "2023"
+    }
+]

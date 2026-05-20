@@ -1,0 +1,11 @@
+[
+    {
+        "material": "Arena",
+        "cantidad": "50",
+        "unidad": "1 tonelada",
+        "camion": "ABC-123 - Volvo",
+        "destino": "Planta Sur",
+        "fecha": "2026-05-13",
+        "obs": ""
+    }
+]
