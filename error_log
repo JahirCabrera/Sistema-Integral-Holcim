@@ -1,0 +1,2 @@
+[08-May-2026 02:18:15 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/paddysupetex/public_html/generar_reporte_pdf.php on line 155
+[08-May-2026 02:18:15 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/paddysupetex/public_html/generar_reporte_pdf.php on line 155

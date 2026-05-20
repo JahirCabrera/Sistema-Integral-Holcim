@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Cemento Portdlan",
+        "tipo": "Cemento",
+        "unidad": "500kgm",
+        "cantidad": "500",
+        "estado": "Disponible",
+        "obs": "Urge material para empezar obra"
+    },
+    {
+        "nombre": "Cemento Mortero",
+        "tipo": "Cemento",
+        "unidad": "456",
+        "cantidad": "25",
+        "estado": "Bajo stock",
+        "obs": "Urge cemento Mortero"
+    },
+    {
+        "nombre": "cemento portland",
+        "tipo": "Cemento",
+        "unidad": "1 tonelada",
+        "cantidad": "150",
+        "estado": "Disponible",
+        "obs": "ningunn"
+    }
+]

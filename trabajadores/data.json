@@ -1,0 +1,146 @@
+[
+    {
+        "nombre": "Caleb",
+        "apellido": "Morales",
+        "puesto": "Ingeniero Industrial",
+        "telefono": "5699517401",
+        "estado": "Activo",
+        "area": "Logistica"
+    },
+    {
+        "nombre": "Juan",
+        "apellido": "Gomez",
+        "puesto": "Operador de camion",
+        "telefono": "5614847512",
+        "estado": "Activo",
+        "area": "Despacho"
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "Mejia",
+        "puesto": "Ingeniera Industrial",
+        "telefono": "5684741592",
+        "estado": "Inactivo",
+        "area": "Logistica"
+    },
+    {
+        "nombre": "Sebastian",
+        "apellido": "Ordaz",
+        "puesto": "Operador de cami\u00f3n",
+        "telefono": "5542448065",
+        "estado": "Activo",
+        "area": "Log\u00edstica"
+    },
+    {
+        "nombre": "Alejandro",
+        "apellido": "Miller",
+        "puesto": "Despachador",
+        "telefono": "552356895865",
+        "estado": "Inactivo",
+        "area": "Producci\u00f3n"
+    },
+    {
+        "nombre": "Derek",
+        "apellido": "Miranda",
+        "puesto": "Despachador",
+        "telefono": "554235689784",
+        "estado": "Activo",
+        "area": "Producci\u00f3n"
+    },
+    {
+        "nombre": "Mariana",
+        "apellido": "L\u00f3pez",
+        "puesto": "Supervisora de Almac\u00e9n",
+        "telefono": "5512345678",
+        "estado": "Activo",
+        "area": "Almac\u00e9n"
+    },
+    {
+        "nombre": "Ricardo",
+        "apellido": "Fuentes",
+        "puesto": "Analista de Sistemas",
+        "telefono": "5523456789",
+        "estado": "Activo",
+        "area": "Sistemas"
+    },
+    {
+        "nombre": "Ver\u00f3nica",
+        "apellido": "N\u00fa\u00f1ez",
+        "puesto": "Coordinadora de Log\u00edstica",
+        "telefono": "5534567890",
+        "estado": "Inactivo",
+        "area": "Log\u00edstica"
+    },
+    {
+        "nombre": "Eduardo",
+        "apellido": "Castillo",
+        "puesto": "Operador de montacargas",
+        "telefono": "5545678901",
+        "estado": "Activo",
+        "area": "Almac\u00e9n"
+    },
+    {
+        "nombre": "Patricia",
+        "apellido": "Soto",
+        "puesto": "Jefa de Producci\u00f3n",
+        "telefono": "5556789012",
+        "estado": "Activo",
+        "area": "Producci\u00f3n"
+    },
+    {
+        "nombre": "H\u00e9ctor",
+        "apellido": "R\u00edos",
+        "puesto": "Ayudante general",
+        "telefono": "5567890123",
+        "estado": "Activo",
+        "area": "Despacho"
+    },
+    {
+        "nombre": "Laura",
+        "apellido": "Jim\u00e9nez",
+        "puesto": "Ingeniera de Calidad",
+        "telefono": "5578901234",
+        "estado": "Activo",
+        "area": "Producci\u00f3n"
+    },
+    {
+        "nombre": "Manuel",
+        "apellido": "Cruz",
+        "puesto": "T\u00e9cnico en Sistemas",
+        "telefono": "5589012345",
+        "estado": "Inactivo",
+        "area": "Sistemas"
+    },
+    {
+        "nombre": "Diana",
+        "apellido": "Paredes",
+        "puesto": "Planeadora de Log\u00edstica",
+        "telefono": "5590123456",
+        "estado": "Activo",
+        "area": "Log\u00edstica"
+    },
+    {
+        "nombre": "Omar",
+        "apellido": "Valencia",
+        "puesto": "Despachador",
+        "telefono": "5601234567",
+        "estado": "Activo",
+        "area": "Despacho"
+    },
+    {
+        "nombre": "Gabriela",
+        "apellido": "Flores",
+        "puesto": "Supervisora de Despacho",
+        "telefono": "5612345678",
+        "estado": "Activo",
+        "area": "Despacho"
+    },
+    {
+        "nombre": "Jorge",
+        "apellido": "M\u00e9ndez",
+        "puesto": "Operador de cami\u00f3n",
+        "telefono": "5623456789",
+        "estado": "Inactivo",
+        "area": "Log\u00edstica"
+    }
+]
